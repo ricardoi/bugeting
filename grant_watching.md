@@ -14,8 +14,8 @@ For questions about whether your project is appropriate, or for program specific
 Watch the  JGI Engagement: Accessing Functional Genomics Capabilities Webinar hosted by the DNA Synthesis Science group. The webinar invites researchers to submit white papers to the Community Science Program’s Functional Genomics call for proposals. 
 
 ### Proposal Schedule
-CSP Functional Genomics proposals are accepted on a continuous basis and will be reviewed twice a year. Submission deadline for reach review process is listed below. Letters of intent are not required.
-**Submission deadlines:**
+CSP Functional Genomics proposals are accepted on a continuous basis and will be reviewed twice a year. Submission deadline for reach review process is listed below. Letters of intent are not required.\
+**Submission deadlines:**\
     **January 31, 2022**
 
 https://jgi.doe.gov/user-programs/program-info/csp-overview/csp-functional-genomics/
