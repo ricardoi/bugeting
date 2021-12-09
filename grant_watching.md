@@ -2,7 +2,7 @@
 
 Here is a list of grants, keep an eye on them!
 
-# Joint Genome Institute:: CSP Functional Genomics
+# Joint Genome Institute:
 ## CSP Annual Call
 The JGI’s Community Science Program (CSP) Annual Call is focused on large-scale genomic science projects that address questions of relevance to DOE Biological and Environmental Research (BER) missions in sustainable biofuel and bioproducts production, global carbon cycling, and biogeochemistry. While applications will be accepted that address any aspect of these mission areas, priority for this call will be given to projects that address the specific areas of special emphasis that are listed in the call, and exploit the diversity of JGI technical and analytical capabilities.
 
@@ -51,6 +51,7 @@ CSP Functional Genomics proposals are accepted on a continuous basis and will be
 
 https://jgi.doe.gov/user-programs/program-info/csp-overview/csp-functional-genomics/
 
+#--------
 
 ## Predictive Intelligence for Pandemic Prevention Phase I: Development Grants (PIPP Phase I) 
 ### Program Solicitation: NSF 21-590
