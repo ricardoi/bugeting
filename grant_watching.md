@@ -2,8 +2,39 @@
 
 Here is a list of grants, keep an eye on them!
 
-# CSP Functional Genomics
-## Joint Genome Institute
+# Joint Genome Institute:: CSP Functional Genomics
+## CSP Annual Call
+The JGI’s Community Science Program (CSP) Annual Call is focused on large-scale genomic science projects that address questions of relevance to DOE Biological and Environmental Research (BER) missions in sustainable biofuel and bioproducts production, global carbon cycling, and biogeochemistry. While applications will be accepted that address any aspect of these mission areas, priority for this call will be given to projects that address the specific areas of special emphasis that are listed in the call, and exploit the diversity of JGI technical and analytical capabilities.
+
+For the CSP annual call, a Letter of Intent (LOI) is required to submit a proposal to the JGI.  The letter of intent must be submitted using our web-based form.  Submitters whose LOIs/proposals are approved will receive further instructions via email.  Human or animal disease-related work will NOT be considered under this Program. Plant pathogens will only be considered if of relevance to bioenergy-related crops or plants.  All proposals will be externally peer-reviewed for scientific merit, DOE relevance, proposed data usage by the applicant/community, and track record of the applicant. Proposers are encouraged to review the JGI’s sample requirements; samples that are not available in a timely manner, or are of insufficient quality or quantity, will delay or potentially defer approval for sequencing.
+
+View the list of accepted proposals from previous calls.
+
+For general questions, please contact Christa Pennacchio, Project Management Office.  For questions about the appropriateness of projects or experimental design, please contact Tanja Woyke, Deputy for User Programs.  Technical and Scientific Leads will also be available to answer any questions prior to proposal submission.  
+
+   I.  Genes to Function
+  II. Plant Functional Genomics
+ III. Inter-organismal interactions
+  IV. Microbes and communities involved in elemental cycling in terrestrial, freshwater, estuarine and intertidal environments
+   V. Algal genomics
+ 
+#### Proposal Schedule
+To respond to the annual CSP call, a Letter of Intent is required before submitting a proposal. Letters of intent for CSP22 will only be accepted electronically and should be submitted at https://proposals.jgi.doe.gov/. Guidance for submitting full proposals will be included in the email notification to invited applicants.
+
+The full FY22 schedule is below:
+| Process | Date:|
+|--|--|
+|Begin accepting Letters of Intent | January 20, 2021|
+|Letters of intent received | April 12, 2021|
+|Invitation of proposals | April 17, 2021|
+|Proposals received | May 20, 2021|
+|Technical and scientific review | July 2021|
+|Approval and rejection notices sent 	by | August 31, 2021|
+|Projects start | October 1, 2021 or as soon as the User Agreement is finalized|
+
+https://github.com/ricardoi/bugeting/edit/main/grant_watching.md
+
+## CSP Functional Genomics call
 The CSP Functional Genomics call is to enable users to perform state-of-the-art functional genomics research and to help them translate genomic information into biological function. The emphasis is on projects leveraging JGI’s DNA synthesis and ‘omics capabilities to enhance understanding of gene and genome function, particularly those not readily achievable without the capabilities and expertise available at the JGI.
 
 Proposals to this call may be submitted to the JGI at any time using a simple web-based form (begin a new proposal document at proposals.jgi.doe.gov to see the proposal format) and are reviewed twice a year. All proposals will undergo an internal pre-review to ensure technical feasibility and alignment with JGI and DOE missions. Screened proposals will be reviewed for scientific merit, DOE relevance, feasibility and impact.  Applicants are encouraged to review the Synthetic Biology Internal Review Process guidelines, as insufficient information will delay or potentially defer approval for the proposal.
