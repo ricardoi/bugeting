@@ -2,6 +2,18 @@
 
 Here is a list of grants, keep an eye on them!
 
+# APHIS
+## Plant Protection Act Section 7721 Funding
+Fiscal Year 2022 Open Period
+
+**Plant Pest and Disease Management and Disaster Prevention Program**
+
+The fiscal year (FY) 2022 open period for submitting suggestions to implement the Plant Pest and Disease Management and Disaster Prevention Program (PPDMDPP) closed on July 23, 2021 and submitted suggestions are now in the review process. APHIS has approximately $75 million available with at least $5 million going to the National Clean Plant Network (NCPN).
+
+Through the Plant Pest and Disease Management and Disaster Prevention Program (PPDMDPP), APHIS provides funding to strengthen and safeguard the nation’s agricultural infrastructure. In FY 2021, APHIS allocated $63 million to support 354 projects for the PPDMDPP and respond to pest and plant health emergencies.
+
+[Implementation plan:](https://www.aphis.usda.gov/plant_health/ppa-7721/fy22/fy2022-ppa-7721-implementation-plan.pdf) 
+
 # Joint Genome Institute:
 ## CSP Annual Call
 The JGI’s Community Science Program (CSP) Annual Call is focused on large-scale genomic science projects that address questions of relevance to DOE Biological and Environmental Research (BER) missions in sustainable biofuel and bioproducts production, global carbon cycling, and biogeochemistry. While applications will be accepted that address any aspect of these mission areas, priority for this call will be given to projects that address the specific areas of special emphasis that are listed in the call, and exploit the diversity of JGI technical and analytical capabilities.
